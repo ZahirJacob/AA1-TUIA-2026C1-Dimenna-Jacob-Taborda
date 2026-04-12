@@ -1,1 +1,1 @@
-pip install pandas seaborn matplotlib scikit-learn numpy
+pip install pandas seaborn matplotlib scikit-learn numpy folium
